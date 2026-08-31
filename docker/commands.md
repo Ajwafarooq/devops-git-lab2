@@ -4,7 +4,6 @@
 
 docker ps
 docker ps -a
-<<<<<<< HEAD
 docker images
 docker run
 docker stop
